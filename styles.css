@@ -1,0 +1,17 @@
+button {
+    border-radius: .25rem;
+    justify-items: center;
+    padding: .33em .67em;
+    border: 0;
+    background: orangered;
+    display: flex;
+    font-size: 1rem;
+    align-items: center;
+    gap: .25em;
+    cursor: pointer;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.9;
+}
