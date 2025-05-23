@@ -15,4 +15,17 @@ Data Navigator does not have a notebook. Learn more online at [this page](https:
 
 ### Papers
 
+* [Data Analysis and Statistics](https://dl.acm.org/doi/pdf/10.1145/1464291.1464366)
+* [Vega-Lite](https://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf)
+* [Texture](https://arxiv.org/pdf/2504.16898)
+* [Data Navigator](https://www.domoritz.de/papers/2023-DataNavigator-VIS.pdf)
+* [Embedding-Atlas](https://arxiv.org/pdf/2505.06386)
+* [Clustering](https://arxiv.org/pdf/2504.07285)
+* [AnyWidget](https://www.theoj.org/joss-papers/joss.06939/10.21105.joss.06939.pdf)
+* [Patent Citations](https://arxiv.org/abs/2301.13431)
+
 ### Books
+
+* [The Sciences of the Artificial](https://en.wikipedia.org/wiki/The_Sciences_of_the_Artificial)
+* [The Grammar of Graphics](https://link.springer.com/book/10.1007/0-387-28695-0)
+* [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
